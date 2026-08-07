@@ -51,9 +51,8 @@ I consistently practice algorithms to improve my problem-solving skills. Check o
 
 | Platform | Profile Link |
 | :--- | :--- |
-| **LeetCode** | [Visit My LeetCode](https://leetcode.com/u//) | 
-| **GeeksForGeeks** | [Visit My GFG](https://www.geeksforgeeks.org/user/shub_66/) |
-| **Codeforces** | [Visit My Codeforces](https://codeforces.com/profile/Shub_66) |
+| **LeetCode** | [Visit My LeetCode](https://leetcode.com/u/guptashivam__/) | 
+| **GeeksForGeeks** | [Visit My GFG](https://www.geeksforgeeks.org/user/shivamkumax0007/) |
 
 ---
 
