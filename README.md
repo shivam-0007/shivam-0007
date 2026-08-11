@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shivam Kumar 👋</h1> 
-<h3 align="center">Software Developer | DSA Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Software Developer | DSA Enthusiast</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/shivam-kumar-a946b929b">
